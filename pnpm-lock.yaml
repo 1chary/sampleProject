@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  start: ^5.1.0
+
+dependencies:
+  start: 5.1.0
+
+packages:
+
+  /start/5.1.0:
+    resolution: {integrity: sha512-lirwWQmvBC65bnxU3HzKx5m7vfZJZTx/FrKyPWbtobcvujGbinQQRrNodtcgkp4mTZ00umzDeg7lraN351l0aA==}
+    engines: {node: '>=4'}
+    deprecated: Deprecated in favor of https://github.com/deepsweet/start
+    dev: false
